@@ -30,11 +30,11 @@ class PresenceManager {
         this.dataManager = dataManager;
         this.config = config;
 
-        loadingGame.state = "Loading the Game";
+        loadingGame.state = "Загружает игру";
         loadingGame.largeImageKey = "state-load";
         loadingGame.largeImageText = "Minecraft";
 
-        mainMenu.state = "In the Main Menu";
+        mainMenu.state = " В главном меню";
         mainMenu.largeImageKey = "state-menu";
         mainMenu.largeImageText = "Main Menu";
 
@@ -92,17 +92,17 @@ class PresenceManager {
 
         if (server != null) {
             inGame.largeImageKey = server.getKey();
-            inGame.largeImageText = "IP: " + server.getName();
+            inGame.largeImageText = server.getName();
         } else if (this.config.hideUnknownIPs) {
             inGame.largeImageKey = "state-unknown-server";
-            inGame.largeImageText = "Unknown Server";
+            inGame.largeImageText = "Неизвестный сервер";
         } else {
             inGame.largeImageKey = "state-unknown-server";
             inGame.largeImageText = "IP: " + ip;
         }
 
-        inGame.state = "Playing with friends <3";
-        inGame.details = "IGN: " + MiscUtil.getIGN();
+        inGame.state = inGame.largeImageText;
+        inGame.details = "Ник: " + MiscUtil.getIGN();
         inGame.startTimestamp = startTime;
         inGame.partyId = ip;
         inGame.partySize = playerCount;
@@ -119,11 +119,10 @@ class PresenceManager {
     }
 
     DiscordRichPresence ingameSP(String world) {
-        inGame.state = "Lonely play..";
-        inGame.details = "IGN: " + MiscUtil.getIGN();
+        inGame.state = "В одиночной игре";
+        inGame.details = "Ник: " + MiscUtil.getIGN();
         inGame.startTimestamp = startTime;
         inGame.largeImageKey = "state-singleplayer";
-        inGame.largeImageText = "World: " + world;
         inGame.partyId = "";
         inGame.partySize = 0;
         inGame.partyMax = 0;

@@ -66,6 +66,12 @@ processResources {
     }
 }
 
+tasks.withType(JavaCompile) {
+  options.encoding = "UTF-8"
+   sourceCompatibility = "1.8"
+   targetCompatibility = "1.8"
+}
+
 runClient {
 
     args = ["--username=ijo42"]
