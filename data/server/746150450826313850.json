@@ -1,15 +1,5 @@
 [
   {
-    "uid": "95.216.119.202:25565",
-    "key": "server-technomagic",
-    "name": "TechnoMagic"
-  },  
-  {
-    "uid": "95.216.119.202",
-    "key": "server-technomagic",
-    "name": "TechnoMagic"
-  },
-  {
     "uid": "localhost",
     "key": "server-localhost",
     "name": "Local Server"
