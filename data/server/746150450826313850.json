@@ -1,5 +1,15 @@
 [
   {
+    "uid": "localhost:25589",
+    "key": "server-tmskyblock",
+    "name": "TMSkyBlock"
+  },  
+    {
+    "uid": "localhost:25580",
+    "key": "server-hitech",
+    "name": "Hitech3"
+  },  
+    {
     "uid": "localhost",
     "key": "server-localhost",
     "name": "Local Server"
