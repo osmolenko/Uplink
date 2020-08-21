@@ -6,13 +6,13 @@
   "loadingGame": {
     "state": "Загрузка...",
     "largeImageText": "Minecraft",
-    "details": "С %d модов"
+    "details": "%d модов"
   },
   "inGame": {
     "multiPlayer": {
       "largeImageText": {
         "unknown": "Неизвестный сервер",
-        "ip": "IP: %s"
+        "ip": "Сервер:%s"
       },
       "state": "Играет на сервере",
       "details": "Ник: %s"
