@@ -1,4 +1,24 @@
 [
+    {
+    "uid": "localhost:25589",
+    "key": "server-tmskyblock",
+    "name": "TMSkyBlock"
+  },
+  {
+    "uid": "localhost:25580",
+    "key": "server-hitech",
+    "name": "Hitech3"
+  },
+  {
+    "uid": "localhost:25575",
+    "key": "server-hitech",
+    "name": "Test"
+  },
+  {
+    "uid": "localhost:25565",
+    "key": "server-hitech",
+    "name": "Test"
+  },
   {
     "uid": "ip.server:22",
     "key": "server-classic",
@@ -73,16 +93,6 @@
     "uid": "ip.server:216",
     "key": "server-cascade",
     "name": "MiniGames"
-  },
-  {
-    "uid": "localhost:25589",
-    "key": "server-tmskyblock",
-    "name": "TMSkyBlock"
-  },
-  {
-    "uid": "localhost:25580",
-    "key": "server-hitech",
-    "name": "Hitech3"
   },
   {
     "uid": "localhost",
