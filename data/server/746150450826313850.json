@@ -1,5 +1,80 @@
 [
   {
+    "uid": "mc.ijo42.online",
+    "key": "server-classic",
+    "name": "Classic"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-pixelmon",
+    "name": "Pixelmon 1"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-pixelmon",
+    "name": "Pixelmon 2"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-galaxycraft",
+    "name": "GalaxyCraft"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-magic",
+    "name": "Magic"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-technomagic",
+    "name": "TechnoMagic 1"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-technomagic",
+    "name": "TechnoMagic 2"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-technomagic",
+    "name": "TechnoMagic 3"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-divine",
+    "name": "Divine 1"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-divine",
+    "name": "Divine 2"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-divine",
+    "name": "Divine 3"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-hitech",
+    "name": "HiTech 1"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-hitech",
+    "name": "HiTech 2"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-hitech",
+    "name": "HiTech 3"
+  },
+  {
+    "uid": "mc.ijo42.online",
+    "key": "server-cascade",
+    "name": "MiniGames"
+  },
+  {
     "uid": "localhost:25589",
     "key": "server-tmskyblock",
     "name": "TMSkyBlock"
@@ -12,16 +87,16 @@
     {
     "uid": "localhost",
     "key": "server-localhost",
-    "name": "Local Server"
+    "name": "Локальный сервер"
   },  
   {
     "uid": "127.0.0.1",
     "key": "server-localhost",
-    "name": "Local Server"
+    "name": "Локальный сервер"
   },
   {
     "uid": "0.0.0.0",
     "key": "server-localhost",
-    "name": "Local Server"
+    "name": "Локальный сервер"
   }
 ]
