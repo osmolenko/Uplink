@@ -1,76 +1,76 @@
 [
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:22",
     "key": "server-classic",
     "name": "Classic"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:23",
     "key": "server-pixelmon",
     "name": "Pixelmon 1"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:24",
     "key": "server-pixelmon",
     "name": "Pixelmon 2"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:25",
     "key": "server-galaxycraft",
     "name": "GalaxyCraft"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:2",
     "key": "server-magic",
     "name": "Magic"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:26",
     "key": "server-technomagic",
     "name": "TechnoMagic 1"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:27",
     "key": "server-technomagic",
     "name": "TechnoMagic 2"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:28",
     "key": "server-technomagic",
     "name": "TechnoMagic 3"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:29",
     "key": "server-divine",
     "name": "Divine 1"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:210",
     "key": "server-divine",
     "name": "Divine 2"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:212",
     "key": "server-divine",
     "name": "Divine 3"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:213",
     "key": "server-hitech",
     "name": "HiTech 1"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:214",
     "key": "server-hitech",
     "name": "HiTech 2"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:215",
     "key": "server-hitech",
     "name": "HiTech 3"
   },
   {
-    "uid": "mc.ijo42.online",
+    "uid": "ip.server:216",
     "key": "server-cascade",
     "name": "MiniGames"
   },
@@ -78,17 +78,17 @@
     "uid": "localhost:25589",
     "key": "server-tmskyblock",
     "name": "TMSkyBlock"
-  },  
-    {
+  },
+  {
     "uid": "localhost:25580",
     "key": "server-hitech",
     "name": "Hitech3"
-  },  
-    {
+  },
+  {
     "uid": "localhost",
     "key": "server-localhost",
     "name": "Локальный сервер"
-  },  
+  },
   {
     "uid": "127.0.0.1",
     "key": "server-localhost",
