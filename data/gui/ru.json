@@ -12,7 +12,7 @@
     "multiPlayer": {
       "largeImageText": {
         "unknown": "Неизвестный сервер",
-        "ip": "Сервер:%s"
+        "ip": "Сервер: %s"
       },
       "state": "Играет на сервере",
       "details": "Ник: %s"
